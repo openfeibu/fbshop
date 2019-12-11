@@ -2,11 +2,11 @@
 
 // 数据库配置
 $config = [
-    'host' => '127.0.0.1',
-    'database' => 'yoshop_pro',
-    'username' => 'root',
-    'password' => 'root',
-    'port' => '3306',
+    'host' => '120.76.200.232',
+    'database' => 'fbshop',
+    'username' => 'feibukeji',
+    'password' => 'bgyrtksithv,1*&($AC',
+    'port' => '16822',
     'charset' => 'utf8',
 ];
 
