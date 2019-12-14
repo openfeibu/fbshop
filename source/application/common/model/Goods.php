@@ -126,7 +126,7 @@ class Goods extends BaseModel
             'search' => '',         // 搜索关键词
             'sortType' => 'all',    // 排序类型
             'sortPrice' => false,   // 价格排序 高低
-            'listRows' => 15,       // 每页数量
+            'listRows' => 10,       // 每页数量
         ], $param);
         // 筛选条件
         $filter = [];
