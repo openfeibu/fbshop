@@ -166,11 +166,11 @@ class User extends UserModel
                 'url' => 'pages/coupon/coupon',
                 'icon' => 'lingquan'
             ],
-            'my_coupon' => [
-                'name' => '我的优惠券',
-                'url' => 'pages/user/coupon/coupon',
-                'icon' => 'youhuiquan'
-            ],
+//            'my_coupon' => [
+//                'name' => '我的优惠券',
+//                'url' => 'pages/user/coupon/coupon',
+//                'icon' => 'youhuiquan'
+//            ],
             'sharing_order' => [
                 'name' => '拼团订单',
                 'url' => 'pages/sharing/order/index',
